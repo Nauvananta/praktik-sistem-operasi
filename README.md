@@ -13,3 +13,21 @@
 
 4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write
 ![Screenshot from 2024-09-10 23-01-40](https://github.com/user-attachments/assets/6103e651-99d4-4e94-918d-10050e0ec78a)
+
+5. Ubahlah ijin akses file dataku pada sub direktori februari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute
+![Screenshot from 2024-09-10 23-05-24](https://github.com/user-attachments/assets/360fd79e-d36a-4e71-9fbd-fe781e787a40)
+
+6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute   
+![Screenshot from 2024-09-10 23-09-40](https://github.com/user-attachments/assets/3564e5ed-e199-49c2-8f8f-51aa73c938ff)
+
+7. Hapuslah direktori maret.                                                                                           
+![Screenshot from 2024-09-10 23-11-54](https://github.com/user-attachments/assets/51e48317-dfe3-4e5d-94d4-514337018c7f)
+
+8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari
+![Screenshot from 2024-09-10 23-18-39](https://github.com/user-attachments/assets/f3d3513f-31c7-4c2d-863c-8c327dc93551)
+
+9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya ?
+![Screenshot from 2024-09-10 23-25-28](https://github.com/user-attachments/assets/fcc91792-c272-41c2-8327-c04d637315f9)
+
+10. uatlah link dari file dataku ke file dataku.ini dan file dataku. juga dan dengan perintah list perhatikan berapa link yang terjadi ?
+![Screenshot from 2024-09-10 23-26-40](https://github.com/user-attachments/assets/30b7eadf-5483-4bcc-8ca5-decdb86cf9b1)
