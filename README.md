@@ -2,7 +2,7 @@
 
 1. Lihat peralatan I/O, character device, yang ada pada system komputer
 ![Screenshot from 2024-09-10 22-29-42](https://github.com/user-attachments/assets/e931db54-1a06-4421-9932-6c21e245aad4)
-![Screenshot from 2024-09-10 22-32-01](https://github.com/user-attachments/assets/c4e17dca-488b-4cf8-96c4-4535f6ce404f)
+
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5
 ![Screenshot from 2024-09-10 22-33-19](https://github.com/user-attachments/assets/a9928a6a-c471-4f54-871f-ce4627e3fa6f)
 
