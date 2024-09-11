@@ -29,7 +29,7 @@
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya ?
 ![Screenshot from 2024-09-10 23-25-28](https://github.com/user-attachments/assets/fcc91792-c272-41c2-8327-c04d637315f9)
 
-10. uatlah link dari file dataku ke file dataku.ini dan file dataku. juga dan dengan perintah list perhatikan berapa link yang terjadi ?
+10. Buatlah link dari file dataku ke file dataku.ini dan file dataku. juga dan dengan perintah list perhatikan berapa link yang terjadi ?
 ![Screenshot from 2024-09-11 09-42-00](https://github.com/user-attachments/assets/d45a3627-bea9-4904-8e06-3fd1c0c5d377)
 ![Screenshot from 2024-09-11 09-42-12](https://github.com/user-attachments/assets/1c4dfa93-4ed7-4759-83b7-2067e8be8db5)
 
